@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#4527a0</color>
+    <color name="colorPrimaryDark">#000070</color>
+    <color name="colorAccent">#7953d2</color>
+    <color name="white">#ffffff</color>
+    <color name="button">#b7b6ff</color>
+    <color name="Ijo">#18ffff</color>
+    <color name="Back">#00e676</color>
+    <color name="back">#40c4ff</color>
+    <color name="red">#c4001d</color>
+    <color name="ungu">#e040fb</color>
+    <color name="ungumuda">#ce93d8</color>
+    <color name="biru">#1e88e5</color>
+    <color name="ijotua">#4caf50</color>
+</resources>
